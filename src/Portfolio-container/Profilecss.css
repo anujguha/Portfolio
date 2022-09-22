@@ -1,0 +1,139 @@
+.section{
+    font-size: 62.5%;
+}
+@media(max-width:1450px){
+    .section{
+        font-size: 55%;
+    }
+}
+@media(min-width:1048px){
+    .section{
+        font-size: 30%;
+    }
+}
+@media(max-width:400px){
+    .section{
+        font-size: 29%;
+    }
+}
+.Home{
+    height: 42.5rem;
+    
+}
+.profile-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:33rem;
+    background-color: #000000;
+    max-height: 50.0rem;
+}
+.profile-parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:aliceblue;
+    margin: 4rem;
+}
+.profile-details-name{
+    font-size: 1.6rem;
+    font-family: 'Font Awesome 5 Brands';
+    
+}
+.profile-details-role{
+    display: flex;
+    flex-direction: column;
+    margin: 0 2.4rem 0 2.4rem ;
+}
+.primary-text{
+    color: #fff;
+}
+.highlighted-text{
+    color: #ff5823;
+}
+.highlighted-text h1{
+    display: flex;
+    color: #ff5823;
+    
+}
+.dev{
+    background-color: #ff5823;
+    color:rgb(255, 255, 255);
+    border-radius: 5px;
+    width:fit-content;
+    height: fit-content;
+    font-size: 1.6rem;
+    bottom: .5rem;
+    margin-top: 1.5%;
+    margin-left: 1.2%;
+}
+.profile-role-tagline{
+    font-size:1.9rem;
+    margin: .5rem 0 0 0;
+    font-family: "Poppins Light";
+}
+.profile-options .highlighted-btn{
+    margin: 0 0 0 .2rem;
+    
+}
+.profile-options .highlighted-btn:hover{
+    margin: 0 0 0 .2rem;
+    background-color: cornsilk;
+    color: #111
+}
+.profile-picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 .1rem .1rem 0 #fff;
+    border-radius: 10%;
+    height: 20.0rem;
+    width: 40.0rem;
+    margin:0 0 0 10.0rem;
+}
+.profile-picture-background{
+    height: 16.4rem;
+    width: 32.8rem;
+    background-image: url('./profilephoto.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Colz-icon{
+    color:white;
+    padding: .8rem;
+    margin-bottom: .4rem;
+    padding-left: 0rem;
+    text-decoration: none;
+}
+.Colz-icon i:hover{
+     transform: scale(1.5);
+     text-decoration: none;
+     color: #ff5823;
+}
+
+.seperator-skew{
+    position:absolute;
+    top: 33rem;
+    left: 0;
+    right: 0;
+    height: 5.65rem;
+    
+    overflow: hidden;
+    background-color: #000000;
+}
+
+.seperator-skew svg .fill-white {
+    fill: rgb(255, 255, 255);
+}
+footer{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #bababa;
+    background-color: #ffffff;
+    bottom: 0rem;
+    height: 10rem;
+    padding-top: 1rem;
+}

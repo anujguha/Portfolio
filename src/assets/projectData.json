@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Animated Weather forecasting",
+        "tech":[{"img":"/images/Mongo.png"},{"img":"/images/express.png"},{"img":"/images/React.png"},{"img":"/images/nodejs.png"}],
+        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
+        "logo":"/images/pc.jpg"
+    },
+    {
+        "id":1,
+        "title":"Animated Weather forecasting",
+        "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
+        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
+        "logo":"/images/app.png"
+    },
+    {
+        "id":1,
+        "title":"Animated Weather forecasting",
+        "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
+        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
+        "logo":"/images/pc.jpg"
+    },
+    {
+        "id":1,
+        "title":"Animated Weather forecasting",
+        "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
+        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
+        "logo":"/images/app.png"
+    }
+]
