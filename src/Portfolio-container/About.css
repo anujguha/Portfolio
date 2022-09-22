@@ -1,5 +1,6 @@
 .section{
     font-size: 62.5%;
+    background-image: linear-gradient( #fff, #ff825d);
 }
 @media(max-width:998px){
     .section{
@@ -14,7 +15,9 @@
 
 
 .About-container{
-    background-color:#f0fbff;
+    background-image:url("/images/bg-img.png");
+    background-size: 2rem 2rem;
+    background-repeat: repeat;
     color: rgb(255, 255, 255);
     position: relative;
     top: 0rem;
@@ -29,7 +32,9 @@
     height: 5.65rem;
    
     overflow: hidden;
-    background-color: #f0fbff;
+    background-image:url("/images/bg-img.png");
+    background-size: 2rem 2rem;
+    background-repeat: repeat;
     box-shadow: #4d4d4d;
 }
 
@@ -55,7 +60,7 @@
     margin-left: 10%;
 }
 .abouthead2{
-    color: #FF5823;
+    color: #ffffff;
     display: inline;
     justify-content: center;
     align-items: center;
@@ -67,7 +72,7 @@
     display:flex;
     align-items: center;
     justify-content: center;
-    border-radius: 3.5rem 5.0rem 5.0rem 0;
+    border-radius: 3.5rem 5rem 5.0rem 0;
     height: 38rem;
     width: 80%;
     margin-top:2.5%;
@@ -75,7 +80,8 @@
     margin-left:10%;
     margin-right:10%;
     background-color: #fff;
-    box-shadow: .5rem .5rem .5rem .5rem #7d7d7d;
+    box-shadow: .5rem .5rem .5rem .5rem #823401;
+    
 }
 
 .myImage{

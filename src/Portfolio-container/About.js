@@ -18,7 +18,12 @@ export default function About() {
                    <div className='introbox'>
                     <h1>Anuj Guha</h1>
                     <h3>subtitles</h3>
-                    <p> description this is ajsdo luiah odhfp9 d ouh fpahfhpoo fihaoihpsoidf  sf opashd fo sdpfoh foahd fodjnj98y farf jnl; dhv9 p d  sodihfojrfl uofia foajnv;si afnanufjyhiuen  dn fh vhskknvujd chf   gdjdnhf hlksjdhu sdjhauidh</p>
+                    <p> My name is Anuj Guha I a a student of B.Tech 3rd Yr Computer Scienceat MITS Gwalior, I have Created his website for fools like you.</p>
+                    <p> My name is Anuj Guha I a a student of B.Tech 3rd Yr Computer Scienceat MITS Gwalior, I have Created his website for fools like you.</p>
+                    <p> My name is Anuj Guha I a a student of B.Tech 3rd Yr Computer Scienceat MITS Gwalior, I have Created his website for fools like you.</p>
+                    <p> My name is Anuj Guha I a a student of B.Tech 3rd Yr Computer Scienceat MITS Gwalior, I have Created his website for fools like you.</p>
+                    <p> My name is Anuj Guha I a a student of B.Tech 3rd Yr Computer Scienceat MITS Gwalior, I have Created his website for fools like you.</p>
+                    <p> My name is Anuj Guha I a a student of B.Tech 3rd Yr Computer Scienceat MITS Gwalior, I have Created his website for fools like you.</p>
                    </div>
                    <img src='/images/anuj_orangebg.png' alt='myImage2' className='myImage'></img>
                 </div>

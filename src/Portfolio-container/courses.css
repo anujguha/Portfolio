@@ -31,11 +31,14 @@
     height: 5.65rem;
     width:100%;
     overflow: hidden;
-    background-color: transparent;
+    background-image:url("/images/bg-img.png");
+    background-size: 2rem 2rem;
+    background-repeat: repeat;
 }
 
 .seperator-skew10 svg .fill-white10 {
-    fill: #f0fbff;
+    fill: #000000;
+    
 }
 .seperator-skew5{
     position:absolute;
@@ -49,7 +52,7 @@
     box-shadow: #4d4d4d;
 }
 
-.seperator-skew5 svg .fill-white10 {
+.seperator-skew5 svg .fill-white5 {
     fill: #000000;
 }
 .Heading{
