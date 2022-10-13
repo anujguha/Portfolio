@@ -6,7 +6,7 @@
         "subtitle":"Personal portfolio",
         "tech":[{"img":"/assets/images/React.PNG"},{"img":"/assets/logo/HTML.PNG"},{"img":"/assets/logo/CSS.PNG"},{"img":"/assets/logo/JS.PNG"}],
         "description":"It is a personal portfolio website made using React framework. Single pagewebsite that contains all the information about my projects, certifications and skills. ",
-        "logo":"/assets/images/portfolio.JPG"
+        "logo":"/images/portfolio.JPG"
     },
     {
         "id":2,
