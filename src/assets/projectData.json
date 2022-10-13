@@ -1,30 +1,28 @@
 [
+
     {
         "id":1,
-        "title":"Animated Weather forecasting",
+        "title":"Portfolio Website ",
+        "subtitle":"Personal portfolio",
+        "tech":[{"img":"/images/React.png"},{"img":"/logo/HTML.png"},{"img":"/logo/CSS.png"},{"img":"/logo/JS.png"}],
+        "description":"It is a personal portfolio website made using React framework. Single pagewebsite that contains all the information about my projects, certifications and skills. ",
+        "logo":"/images/portfolio.JPG"
+    },
+    {
+        "id":2,
+        "title":"NoProxy",
+        "subtitle":"LAN based Attendance management system",
         "tech":[{"img":"/images/Mongo.png"},{"img":"/images/express.png"},{"img":"/images/React.png"},{"img":"/images/nodejs.png"}],
-        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
-        "logo":"/images/pc.jpg"
+        "description":"Different from traditional attendaance management systems that uses password to mark attendance, this app marks atendance for only those who are connected to the Teacher's short range Wifi-Hotspot.",
+        "logo":"/images/NoProxy.jpg"
     },
     {
-        "id":1,
-        "title":"Animated Weather forecasting",
-        "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
-        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
-        "logo":"/images/app.png"
-    },
-    {
-        "id":1,
-        "title":"Animated Weather forecasting",
+        "id":3,
+        "title":"Chat Application ",
+        "subtitle":"Chat Application Using React, Express and Socket.IO ",
         "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
-        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
-        "logo":"/images/pc.jpg"
-    },
-    {
-        "id":1,
-        "title":"Animated Weather forecasting",
-        "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
-        "description":"This application helps us to better understand the weather with help of animations.It is just an description of an application that does not exists in real life. Thank You!",
-        "logo":"/images/app.png"
+        "description":"Chat application desgned using react framework and SocketIO that enables user to send and receive messages privately as well as in groups.",
+        "logo":"/logo/chat-app.jpg"
     }
+
 ]

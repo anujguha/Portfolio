@@ -11,6 +11,7 @@ function ProjectBox(props) {
                         <div><img src={data.logo} alt='project-logo' className='project-logo'></img></div>
                         <div className='right-box'>
                             <h1 className='head-123'>{data.title}</h1>
+                            <h6 className='head-123'>{data.subtitle}</h6>
                             <div className='tech-logos'>
                                 <li> <h3>MADE WITH:</h3></li>
                                 <li> 
