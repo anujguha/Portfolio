@@ -2,11 +2,11 @@ import React from 'react';
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 import { useCallback } from "react";
-import './Profilecss.css'
+import './Profilecss.css';
 import { HashLink as Link } from 'react-router-hash-link';
 import './navbar.css';
 
-function Profile() {
+export default function Profile() {
     const particlesInit = useCallback(async (engine) => {
         console.log(engine);
         await loadFull(engine);
@@ -141,7 +141,7 @@ function Profile() {
                             </div>
                             <div className='profile-options'>
                                 <button className='btn primary-btn'>Hire me</button>
-                                <a href='Resume_anujguha_27june.pdf' download='Anuj Resume_anujguha_27june.pdf'>
+                                <a href='Resume_anujguha_27june.pdf' download='Anuj Resume_anujguha_27june.PDF'>
                                     <button className='btn highlighted-btn'>Get Resume</button>
                                 </a>
                             </div>
@@ -164,4 +164,4 @@ function Profile() {
     );
 }
 
-export default Profile;
+

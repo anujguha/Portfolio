@@ -23,7 +23,7 @@ export default function About() {
                     <p>My tech stack includes <li>languages like C++, Python, and Javascript </li> <li>frameworks like React and Angular</li><li> DBMS like MongoDB and MySQL. </li> <li> Tools like Figma, Postman, Git, etc.</li></p>
                     <p>Presently, I have started competitive coding and I have earned 2<span role='img' aria-label='Star'>⭐</span>'s on Codechef.I am also a student ambassador at Internshala and a member of the Google developer students club - Gwalior. I have been actively participating in online hackathons as well.</p>
                    </div>
-                   <img src='/images/anuj_orangebg.png' alt='myImage2' className='myImage'></img>
+                   <img src='/images/anuj_orangebg.PNG' alt='myImage2' className='myImage'></img>
                 </div>
             </section>
         );
