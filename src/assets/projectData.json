@@ -4,25 +4,25 @@
         "id":1,
         "title":"Portfolio Website ",
         "subtitle":"Personal portfolio",
-        "tech":[{"img":"/images/React.png"},{"img":"/logo/HTML.png"},{"img":"/logo/CSS.png"},{"img":"/logo/JS.png"}],
+        "tech":[{"img":"/assets/images/React.png"},{"img":"/assets/logo/HTML.png"},{"img":"/assets/logo/CSS.png"},{"img":"/assets/logo/JS.png"}],
         "description":"It is a personal portfolio website made using React framework. Single pagewebsite that contains all the information about my projects, certifications and skills. ",
-        "logo":"/images/portfolio.JPG"
+        "logo":"/assets/images/portfolio.JPG"
     },
     {
         "id":2,
         "title":"NoProxy",
         "subtitle":"LAN based Attendance management system",
-        "tech":[{"img":"/images/Mongo.png"},{"img":"/images/express.png"},{"img":"/images/React.png"},{"img":"/images/nodejs.png"}],
+        "tech":[{"img":"/assets/images/Mongo.png"},{"img":"/assets/images/express.png"},{"img":"/assets/images/React.png"},{"img":"/assets/images/nodejs.png"}],
         "description":"Different from traditional attendaance management systems that uses password to mark attendance, this app marks atendance for only those who are connected to the Teacher's short range Wifi-Hotspot.",
-        "logo":"/images/NoProxy.jpg"
+        "logo":"/assets/images/NoProxy.jpg"
     },
     {
         "id":3,
         "title":"Chat Application ",
         "subtitle":"Chat Application Using React, Express and Socket.IO ",
-        "tech":[{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"},{"img":"/images/logo.png"}],
+        "tech":[{"img":"/assets/images/logo.png"},{"img":"/assets/images/logo.png"},{"img":"/assets/images/logo.png"},{"img":"/assets/images/logo.png"}],
         "description":"Chat application desgned using react framework and SocketIO that enables user to send and receive messages privately as well as in groups.",
-        "logo":"/logo/chat-app.jpg"
+        "logo":"/assets/logo/chat-app.jpg"
     }
 
 ]
