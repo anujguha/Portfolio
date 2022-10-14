@@ -14,7 +14,7 @@
         "subtitle":"LAN based Attendance management system",
         "tech":[{"img":"/assets/images/Mongo.PNG"},{"img":"/assets/images/express.PNG"},{"img":"/assets/images/React.PNG"},{"img":"/assets/images/nodejs.PNG"}],
         "description":"Different from traditional attendaance management systems that uses password to mark attendance, this app marks atendance for only those who are connected to the Teacher's short range Wifi-Hotspot.",
-        "logo":"../assets/images/NoProxy.JPG"
+        "logo":"/assets/images/NoProxy.JPG"
     },
     {
         "id":3,
@@ -22,7 +22,7 @@
         "subtitle":"Chat Application Using React, Express and Socket.IO ",
         "tech":[{"img":"/assets/images/logo.PNG"},{"img":"/assets/images/logo.PNG"},{"img":"/assets/images/logo.PNG"},{"img":"/assets/images/logo.PNG"}],
         "description":"Chat application desgned using react framework and SocketIO that enables user to send and receive messages privately as well as in groups.",
-        "logo":"../assets/logo/chat-app.JPG"
+        "logo":"/assets/logo/chat-app.JPG"
     }
 
 ]
