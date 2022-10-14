@@ -15,7 +15,7 @@
 
 
 .About-container{
-    background-image:url("/images/bg-img.jpeg");
+    background-image:url("./images/bg-img.jpeg");
     background-size: 100% 100%;
     
     color: rgb(255, 255, 255);

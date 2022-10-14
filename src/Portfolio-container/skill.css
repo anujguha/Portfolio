@@ -14,7 +14,7 @@
 .skill-container{
     background-color: #000000;
     height: fit-content;
-    min-height: 28rem;
+    min-height: 25rem;
 }
 .seperator-skew9{
     position:relative;
@@ -53,7 +53,7 @@
     font-size: 2.8rem;
  }
  .block{
-    padding: 5.0rem;
+    padding: 3.0rem;
 }
 .icons-skills{
     list-style-type: none;
@@ -76,16 +76,23 @@ ul{
     padding-inline-start: 4.0rem;
 }
 .icons-skills li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.icons-skills li li {
     display: inline;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin: 2.0rem;
 }
-.icons-skills li img{
-    height: 8.0rem;
-    width: 8.0rem;  
+.icons-skills li li img{
+    height: 5.0rem;
+    width: 5.0rem;  
 }
-.icons-skills li:hover{
+.icons-skills li li:hover{
     transform: scale(1.2);  
 }
