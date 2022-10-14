@@ -1,7 +1,7 @@
 import React from 'react';
 import './Projects.css'
-import projectData from '../assets/projectData.json';
-import google from './assets/images/google.png';
+import projectData from '../images/projectData.json';
+import google from '../images/google.png';
 function ProjectBox(props) {
     return (
         <div>
