@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0efde454f35d96fe92c5",
-    "url": "/Portfolio/static/css/main.ae083512.chunk.css"
+    "revision": "e18fade63e515489b496",
+    "url": "/Portfolio/static/css/main.0d4abbf7.chunk.css"
   },
   {
-    "revision": "0efde454f35d96fe92c5",
-    "url": "/Portfolio/static/js/main.d51b755b.chunk.js"
+    "revision": "e18fade63e515489b496",
+    "url": "/Portfolio/static/js/main.d3228298.chunk.js"
   },
   {
     "revision": "c13cfa711b5ee8ba6f0d",
@@ -36,6 +36,14 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/coursera.90988c91.png"
   },
   {
+    "revision": "a3e0b5f427803a187c1b62c5919196aa",
+    "url": "/Portfolio/static/media/Poppins-Bold.a3e0b5f4.ttf"
+  },
+  {
+    "revision": "f6ea751e936ade6edcd03a26b8153b4a",
+    "url": "/Portfolio/static/media/Poppins-Light.f6ea751e.ttf"
+  },
+  {
     "revision": "f61a4eb27371b7453bf5b12ab3648b9e",
     "url": "/Portfolio/static/media/Poppins-Medium.f61a4eb2.ttf"
   },
@@ -52,23 +60,19 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Poppins-Thin.25cd0f68.ttf"
   },
   {
-    "revision": "a3e0b5f427803a187c1b62c5919196aa",
-    "url": "/Portfolio/static/media/Poppins-Bold.a3e0b5f4.ttf"
-  },
-  {
     "revision": "544fa4f2678a8285eb88b8dfe503c90c",
     "url": "/Portfolio/static/media/Poppins-ExtraBold.544fa4f2.ttf"
-  },
-  {
-    "revision": "f6ea751e936ade6edcd03a26b8153b4a",
-    "url": "/Portfolio/static/media/Poppins-Light.f6ea751e.ttf"
   },
   {
     "revision": "d2a9c253cd9993b6d5372fb5b6a99b86",
     "url": "/Portfolio/static/media/profilephoto.d2a9c253.png"
   },
   {
-    "revision": "642726cab68a2c29dd46404760b4768f",
+    "revision": "165b56485a9cdf96b6ee9e4bd2b762e9",
+    "url": "/Portfolio/static/media/bg-img.165b5648.jpeg"
+  },
+  {
+    "revision": "ecb9764c2224e270bbbc1dcc3747e016",
     "url": "/Portfolio/index.html"
   }
 ];
