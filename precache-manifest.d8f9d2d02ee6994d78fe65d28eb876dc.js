@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "effe8d717de828146e75",
+    "revision": "419b897ec664484c2cb7",
     "url": "/Portfolio/static/css/main.dabfae96.chunk.css"
   },
   {
-    "revision": "effe8d717de828146e75",
-    "url": "/Portfolio/static/js/main.f3a89877.chunk.js"
+    "revision": "419b897ec664484c2cb7",
+    "url": "/Portfolio/static/js/main.115e69be.chunk.js"
   },
   {
     "revision": "c13cfa711b5ee8ba6f0d",
@@ -36,6 +36,10 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/coursera.90988c91.png"
   },
   {
+    "revision": "f6ea751e936ade6edcd03a26b8153b4a",
+    "url": "/Portfolio/static/media/Poppins-Light.f6ea751e.ttf"
+  },
+  {
     "revision": "f61a4eb27371b7453bf5b12ab3648b9e",
     "url": "/Portfolio/static/media/Poppins-Medium.f61a4eb2.ttf"
   },
@@ -56,10 +60,6 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Poppins-ExtraBold.544fa4f2.ttf"
   },
   {
-    "revision": "f6ea751e936ade6edcd03a26b8153b4a",
-    "url": "/Portfolio/static/media/Poppins-Light.f6ea751e.ttf"
-  },
-  {
     "revision": "25cd0f688f815bc4f6ac2b71eb6278ba",
     "url": "/Portfolio/static/media/Poppins-Thin.25cd0f68.ttf"
   },
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/bg-img.165b5648.JPG"
   },
   {
-    "revision": "59e07da2443de2eeecbe93c13c06c053",
+    "revision": "6ecec22cf69c464d67a37560d2f87402",
     "url": "/Portfolio/index.html"
   }
 ];
