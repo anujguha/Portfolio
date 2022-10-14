@@ -14,7 +14,7 @@ export default function Skill() {
             <div className='block'>
                 <ul className='icons-skills'>
                     <li>
-                    <li><img src='../images/Mongo.PNG' alt='mongoDB'></img><h4>MongDB</h4></li>
+                    <li><img src='./images/Mongo.PNG' alt='mongoDB'></img><h4>MongDB</h4></li>
                     <li><img src='./images/express.PNG' alt='Express-logo'></img><h4>Express</h4></li>
                     <li><img src='./images/angular.PNG' alt='angular-logo'></img><h4>Angular</h4></li>
                     <li><img src='./images/react.PNG' alt='react-logo'></img><h4>React</h4></li>
