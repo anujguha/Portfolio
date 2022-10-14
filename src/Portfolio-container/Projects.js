@@ -1,14 +1,14 @@
 import React from 'react';
 import './Projects.css'
 import projectData from '../assets/projectData.json';
-
+import google from './assets/images/google.png';
 function ProjectBox(props) {
     return (
         <div>
             {projectData.map((data, index) => {
                 return (
                     <div className='project-box'>
-                        <div><img src={data.logo} alt='project-logo' className='project-logo'></img></div>
+                        <div><img src={google} alt='project-logo' className='project-logo'></img></div>
                         <div className='right-box'>
                             <h1 className='head-123'>{data.title}</h1>
                             <h6 className='head-123'>{data.subtitle}</h6>
