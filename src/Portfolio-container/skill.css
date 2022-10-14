@@ -82,6 +82,9 @@ ul{
     text-align: center;
     
 }
+.icons-skills li li h4{
+    color: aliceblue;
+}
 .icons-skills li li {
     display: inline;
     justify-content: center;
