@@ -1,6 +1,6 @@
 import React from 'react';
 import {Routes , Route } from 'react-router-dom';
-import Profile  from './Portfolio-container/Profile';
+import Profile  from './Profile';
 import Projects  from './Portfolio-container/Projects';
 import Courses from './Portfolio-container/courses';
 import About from './Portfolio-container/About';

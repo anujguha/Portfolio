@@ -4,25 +4,25 @@
         "id":1,
         "title":"Portfolio Website ",
         "subtitle":"Personal portfolio",
-        "tech":[{"img":"/assets/images/React.PNG"},{"img":"/assets/logo/HTML.PNG"},{"img":"/assets/logo/CSS.PNG"},{"img":"/assets/logo/JS.PNG"}],
+        "tech":[{"img":"./images/React.PNG"},{"img":"./images/HTML.PNG"},{"img":"./images/CSS.PNG"},{"img":"./images/JS.PNG"}],
         "description":"It is a personal portfolio website made using React framework. Single pagewebsite that contains all the information about my projects, certifications and skills. ",
-        "logo":"/images/portfolio.JPG"
+        "logo":"./images/portfolio.jpg"
     },
     {
         "id":2,
         "title":"NoProxy",
         "subtitle":"LAN based Attendance management system",
-        "tech":[{"img":"/assets/images/Mongo.PNG"},{"img":"/assets/images/express.PNG"},{"img":"/assets/images/React.PNG"},{"img":"/assets/images/nodejs.PNG"}],
+        "tech":[{"img":"./images/Mongo.PNG"},{"img":"./images/express.PNG"},{"img":"./images/React.PNG"},{"img":"./images/nodejs.PNG"}],
         "description":"Different from traditional attendaance management systems that uses password to mark attendance, this app marks atendance for only those who are connected to the Teacher's short range Wifi-Hotspot.",
-        "logo":"/assets/images/NoProxy.JPG"
+        "logo":"./images/NoProxy.JPG"
     },
     {
         "id":3,
         "title":"Chat Application ",
         "subtitle":"Chat Application Using React, Express and Socket.IO ",
-        "tech":[{"img":"/assets/images/logo.PNG"},{"img":"/assets/images/logo.PNG"},{"img":"/assets/images/logo.PNG"},{"img":"/assets/images/logo.PNG"}],
+        "tech":[{"img":"./images/images.PNG"},{"img":"./images/images.PNG"},{"img":"./images/images.PNG"},{"img":"./images/images.PNG"}],
         "description":"Chat application desgned using react framework and SocketIO that enables user to send and receive messages privately as well as in groups.",
-        "logo":"/assets/logo/chat-app.JPG"
+        "logo":"./images/chat-app.JPG"
     }
 
 ]

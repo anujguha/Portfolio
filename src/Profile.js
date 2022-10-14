@@ -1,6 +1,6 @@
 import React from 'react';
 import Particles from 'react-tsparticles';
-import { loadFull } from 'react-tsparticles';
+import { loadFull } from 'tsparticles';
 import { useCallback } from 'react';
 import './Profilecss.css';
 import { HashLink as Link } from 'react-router-hash-link';
