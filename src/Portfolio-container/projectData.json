@@ -4,7 +4,7 @@
         "id":1,
         "title":"Portfolio Website ",
         "subtitle":"Personal portfolio",
-        "tech":[{"img":"./images/react.png"},{"img":"./images/HTML.png"},{"img":"./images/CSS.png"},{"img":"./images/JS.png"}],
+        "tech":[{"img":"./images/react.PNG"},{"img":"./images/HTML.PNG"},{"img":"./images/CSS.PNG"},{"img":"./images/JS.PNG"}],
         "description":"It is a personal portfolio website made using React framework. Single pagewebsite that contains all the information about my projects, certifications and skills. ",
         "logo":"./images/portfolio.JPG"
     },
@@ -12,7 +12,7 @@
         "id":2,
         "title":"NoProxy",
         "subtitle":"LAN based Attendance management system",
-        "tech":[{"img":"./images/Mongo.png"},{"img":"./images/express.png"},{"img":"./images/react.png"},{"img":"./images/nodejs.png"}],
+        "tech":[{"img":"./images/Mongo.PNG"},{"img":"./images/express.PNG"},{"img":"./images/react.PNG"},{"img":"./images/nodejs.PNG"}],
         "description":"Different from traditional attendaance management systems that uses password to mark attendance, this app marks atendance for only those who are connected to the Teacher's short range Wifi-Hotspot.",
         "logo":"./images/NoProxy.JPG"
     },
@@ -20,9 +20,9 @@
         "id":3,
         "title":"Chat Application ",
         "subtitle":"Chat Application Using React, Express and Socket.IO ",
-        "tech":[{"img":"./images/react.png"},{"img":"./images/express.png"},{"img":"./images/Socket.png"}],
+        "tech":[{"img":"./images/react.PNG"},{"img":"./images/express.PNG"},{"img":"./images/Socket.PNG"}],
         "description":"Chat application desgned using react framework and SocketIO that enables user to send and receive messages privately as well as in groups.",
-        "logo":"./images/chat-app.jpg"
+        "logo":"./images/chat-app.JPG"
     }
 
 ]
