@@ -1,9 +1,10 @@
 import React  from 'react';
 import './courses.css'
-import google from './images/google.png';
-import infosys from './images/Infosys.png';
-import isro from './images/isro.png';
-import coursera from './images/coursera.png';
+import './heading.css'
+import google from './images/google.PNG';
+import infosys from './images/Infosys.PNG';
+import isro from './images/isro.PNG';
+import coursera from './images/coursera.PNG';
 export default function Courses() {
     
         return (

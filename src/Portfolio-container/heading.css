@@ -1,0 +1,25 @@
+
+.Heading{
+    padding-top:3.0rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.head1{
+   
+   color: #FF5823;
+   display: inline;
+    justify-content: center;
+    align-items: center;
+    clear: none;
+    margin-left: 0%;
+}
+.head2{
+    color: #ffffff;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    clear: none;
+   
+ }

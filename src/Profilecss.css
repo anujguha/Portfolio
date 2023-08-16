@@ -127,10 +127,7 @@
     fill: rgb(255, 255, 255);
 }
 footer{
-   
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
     color: #bababa;
     background-color: #ffffff;
     bottom: 0rem;

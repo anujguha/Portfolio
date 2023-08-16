@@ -11,7 +11,7 @@
     {
         "id":2,
         "title":"NoProxy",
-        "subtitle":"LAN based Attendance management system",
+        "subtitle":"IP Address based Attendance management system",
         "tech":[{"img":"./images/Mongo.PNG"},{"img":"./images/express.PNG"},{"img":"./images/react.PNG"},{"img":"./images/nodejs.PNG"}],
         "description":"Different from traditional attendaance management systems that uses password to mark attendance, this app marks atendance for only those who are connected to the Teacher's short range Wifi-Hotspot.",
         "logo":"./images/NoProxy.JPG"

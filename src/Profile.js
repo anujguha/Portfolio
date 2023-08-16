@@ -156,7 +156,9 @@ export default function Profile() {
                 </div>
             </div>
             <footer className='footer'><h3>THE ONLY WAY TO DO GREAT WORK IS TO LOVE WHAT YOU DO.</h3>
-               </footer><footer className='footer'> <h6> -Steve Jobs</h6></footer>
+            <h6> -Steve Jobs</h6>
+               </footer>
+               
 
         </section>
 

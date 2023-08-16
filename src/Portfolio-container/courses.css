@@ -25,29 +25,6 @@
 
 
 
-.Heading{
-    padding-top:3.0rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.head1{
-   color: rgb(0, 0, 0);
-   display: inline;
-    justify-content: center;
-    align-items: center;
-    clear: none;
-    margin-left: 0%;
-}
-.head2{
-    color: #FF5823;
-    display: inline;
-    justify-content: center;
-    align-items: center;
-    clear: none;
-   
- }
 .course-content{
     display: flex;
     justify-content: center;
@@ -111,6 +88,7 @@
     color: rgb(0, 0, 0);
     max-width: 50%;
 }
+
 .view-cert{
     bottom: 10%;
     border: transparent;
